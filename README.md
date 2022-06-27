@@ -1,4 +1,4 @@
-# boston_linear_regression
+# health_insurance_linear_regression
  
 a linear regression exercise using a health insurance dataset 
 
